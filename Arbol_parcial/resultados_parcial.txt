@@ -1,0 +1,13 @@
+PARCIAL FINAL - ESTRUCTURAS DE DATOS
+ARBOL BINARIO
+
+Raiz: 1
+Cantidad de nodos: 12
+Cantidad de aristas: 11
+Nodos hoja: [8, 9, 10, 11, 12]
+Nodos internos: [1, 2, 3, 4, 5, 6, 7]
+
+RECORRIDOS DEL ARBOL
+Preorden: [1, 2, 4, 8, 5, 9, 10, 3, 6, 11, 7, 12]
+Inorden: [8, 4, 2, 9, 5, 10, 1, 11, 6, 3, 12, 7]
+Postorden: [8, 4, 9, 10, 5, 2, 11, 6, 12, 7, 3, 1]
